@@ -29,7 +29,7 @@ This program won 3rd place for Tech Cares at CruzHacks 2018.
 https://devpost.com/software/navigation-for-the-blind-kdyufq
 """
 
-import cv2
+import cv2 
 import numpy as np
 from numpy import ones,vstack
 from numpy.linalg import lstsq
